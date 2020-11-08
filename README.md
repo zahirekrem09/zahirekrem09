@@ -1,4 +1,4 @@
-<img align="./Webp.net-gifmaker.gif" alt="tools" width="100" height="100" align="right" style="max-width:100%;">
+<img src=".all.gif" alt="tools" width="100" height="100" align="right" style="max-width:100%;">
 
 <h3 class="animate__animated animate__bounce">Hi, I'm Tarik. I'm fullstack developer.👋<h3/>
 
@@ -9,7 +9,7 @@
 <p>My Tools :<p/>
 <p align="bottom">
 
-<img src="./python.png" width="25" height="25>
+<img src="./python.png" width="25" height="25">
 <img src="./dj.png" width="25" height="25">
 <img src="./js.png" width="25" height="25" alt = "" >
 <img src="./es6.jpg" width="25" height="25" alt = "" >
@@ -26,7 +26,7 @@
 <img src="./font.jpg" width="25" height="25" alt = "" >
 <img src="./bootstrap.png" width="25" height="25" alt = "" >
 <img src="./linux.png" width="25" height="25" alt = "" >
-<img src="./bash.png" width="25" height="25" alt = """ >
+<img src="./bash.png" width="25" height="25" alt = "" >
 <img src="./git.png" width="25" height="25" alt = "" >
 <img src="./postman.png" width="25" height="25" alt = "" >
 <img src="./drive.png" width="25" height="25" alt = "" >
@@ -34,7 +34,7 @@
 <img src="./jira.jpg" width="25" height="25" alt = "" >
 <img src="./sgithub.png" width="25" height="25" alt = "" >
 <img src="./slack0.jpg" width="25" height="25" alt = "" >
-<img src="./stackover.png" width="25" height="25 alt = "" >
+<img src="./stackover.png" width="25" height="25" alt = "" >
 <img src="./vscode.png" width="25" height="25" alt = "" >
 <p/>
 
