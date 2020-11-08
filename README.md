@@ -29,6 +29,33 @@
 <img src="./stackover.png" width="25" height="25">
 <img src="./firebase.png" width="25" height="25">
 <img src="./vs.png" width="25" height="25">
+<img src="./python.png" width="25" height="25>
+<img src="./dj.png" width="25" height="25">
+<img src="./js.png" width="25" height="25" alt = "" >
+<img src="./es6.jpg" width="25" height="25" alt = "" >
+<img src="./jquery.png" width="25" height="25" alt = "" >
+<img src="./react.jpg" width="25" height="25" alt = "" >
+<img src="./reactt.png" width="25" height="25" alt = "" >
+<img src="./reactn.png" width="25" height="25" alt = "" >
+<img src="./node.png" width="25" height="25" alt = "" >
+<img src="./mongo.png" width="25" height="25" alt = "" >
+<img src="./firebase.png" width="25" height="25" alt = "" >
+<img src="./html.png" width="25" height="25" alt = "" >
+<img src="./css3.png" width="25" height="25" alt = "" >
+<img src="./sass.png" width="25" height="25" alt = "" >
+<img src="./font.jpg" width="25" height="25" alt = "" >
+<img src="./bootstrap.png" width="25" height="25" alt = "" >
+<img src="./linux.png" width="25" height="25" alt = "" >
+<img src="./bash.png" width="25" height="25" alt = """ >
+<img src="./git.png" width="25" height="25" alt = "" >
+<img src="./postman.png" width="25" height="25" alt = "" >
+<img src="./drive.png" width="25" height="25" alt = "" >
+<img src="./gmail.jpg" width="25" height="25" alt = "" >
+<img src="./jira.jpg" width="25" height="25" alt = "" >
+<img src="./sgithub.png" width="25" height="25" alt = "" >
+<img src="./slack0.jpg" width="25" height="25" alt = "" >
+<img src="./stackover.png" width="25" height="25 alt = "" >
+<img src="./vscode.png" width="25" height="25" alt = "" >
 <p/>
 
 <a href="https://status.nmoo.dev/now-playing?open">
