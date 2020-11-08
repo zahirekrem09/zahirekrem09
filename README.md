@@ -8,27 +8,7 @@
 <br/><br/><br/><br/><br/><br/>
 <p>My Tools :<p/>
 <p align="bottom">
- <img src="./c%23.png" width="25" height="25" border: 5px solid #555>
-<img src="./css3.png" width="25" height="25" border: 5px solid #555>
-<img src="./dj.png" width="25" height="25" border: 5px solid #555>
-<img src="./drive.png" width="25" height="25" border: 5px solid #555>
-<img src="./es6.jpg" width="25" height="25" border: 5px solid #555>
-<img src="./font.jpg" width="25" height="25">
-<img src="./git.png" width="25" height="25">
-<img src="./gmail.jpg" width="25" height="25">
-<img src="./html.png" width="25" height="25">
-<img src="./jira.jpg" width="25" height="25">
-<img src="./mysql.png" width="25" height="25">
-<img src="./node.png" width="25" height="25">
-<img src="./postman.png" width="25" height="25">
-<img src="./react.jpg" width="25" height="25">
-<img src="./sgithub.png" width="25" height="25">
-<img src="./sass.png" width="25" height="25">
-<img src="./slack0.jpg" width="25" height="25">
-<img src="./reactt.png" width="25" height="25">
-<img src="./stackover.png" width="25" height="25">
-<img src="./firebase.png" width="25" height="25">
-<img src="./vs.png" width="25" height="25">
+
 <img src="./python.png" width="25" height="25>
 <img src="./dj.png" width="25" height="25">
 <img src="./js.png" width="25" height="25" alt = "" >
