@@ -38,7 +38,12 @@
 <img src="./vscode.png" width="25" height="25" alt = "" >
 <p/>
 
-<a href="https://status.nmoo.dev/now-playing?open">
-    <img src="https://status.nmoo.dev/now-playing" width="256" height="64" alt="Now Playing">
+<a href="https://spotify-snippet.vercel.app/whatiamlistening?open">
+    <img src="https://spotify-snippet.vercel.app/whatiamlistening" width="456" height="120" alt="Now Playing">
+</a>
+
+
+<a href="https://www.linkedin.com/in/zahir-ekrem-sariteke-9aa5a21b3/" target="_blank">
+    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/zahir-ekrem-sariteke-9aa5a21b3/">
 </a>
 
