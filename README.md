@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api?username=
+zahirekrem09&show_icons=true&theme=tokyonight" align='right' width="55%">
 <img src="/all.gif" alt="tools" width="100" height="100" align="right" style="max-width:100%;">
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="200" height="200" align="right" style="max-width:100%;">
 
