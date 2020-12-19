@@ -42,6 +42,9 @@ zahirekrem09&show_icons=true&theme=tokyonight" align='right' width="55%"> -->
 <img src="./vscode.png" width="25" height="25" alt = "" >
 <p/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=
+zahirekrem09&show_icons=true&theme=tokyonight" align='right' width="55%">
+
 <a href="https://spotify-snippet.vercel.app/whatiamlistening?open">
     <img src="https://spotify-snippet.vercel.app/whatiamlistening" width="456" height="120" alt="Now Playing">
 </a>
