@@ -16,7 +16,7 @@ zahirekrem09&show_icons=true&theme=tokyonight" align='right' width="55%"> -->
 
 <img src="https://camo.githubusercontent.com/ecdf091dc9f099a6db3e61242963a3a5412ae6a8/687474703a2f2f696d672e736869656c64732e696f2f62616467652f746563682d737461636b2d3036393066612e7376673f7374796c653d666c6174" alt="" data-canonical-src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" style="max-width:100%;">
 <br/>
-<<<<<<< HEAD
+
 ## 🚀 Skills
 
 <p>
@@ -78,7 +78,7 @@ zahirekrem09&show_icons=true&theme=tokyonight" align='right' width="55%"> -->
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahirekrem09&theme=chartreuse-dark&layout=compact" alt="languages" width="50%"></p>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=
 zahirekrem09&show_icons=true&theme=tokyonight" align='right' width="55%"> -->
-=======
+
 <!-- <br/><br/><br/><br/><br/><br/>
 
 
@@ -114,15 +114,13 @@ zahirekrem09&show_icons=true&theme=tokyonight" align='right' width="55%"> -->
 <img src="./vscode.png" width="25" height="25" alt = "" >
 <p/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=zahirekrem09&show_icons=true&theme=tokyonight" align='right' width="55%"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=zahirekrem09&show_icons=true&theme=tokyonight" align='right' width="55%"> 
+
+
 
 
 <a href="https://spotify-snippet.vercel.app/whatiamlistening?open">
     <img src="https://spotify-snippet.vercel.app/whatiamlistening" width="456" height="120" alt="Now Playing">
 </a>
 
-<!-- 
-<a href="https://www.linkedin.com/in/zahirekremsariteke" target="_blank">
-    <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/zahirekremsariteke">
-</a> -->
 
