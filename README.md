@@ -1,9 +1,7 @@
 
 <img src="/all.gif" alt="tools" width="100" height="100" align="right" style="max-width:100%;">
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="200" height="200" align="right" style="max-width:100%;">
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=
-zahirekrem09&show_icons=true&theme=tokyonight" align='right' width="55%"> -->
-<!-- <h3 class="animate__animated animate__bounce">Hi, I'm Zahir Ekrem. I'm fullstack and mobil  developer.👋<h3/> -->
+
 ## Hi there 👋
 
 <h2> Zahir Ekrem is here. </h2>
@@ -71,50 +69,11 @@ zahirekrem09&show_icons=true&theme=tokyonight" align='right' width="55%"> -->
 
 ## 📈 Statistics
 
-<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=zahirekrem09" alt="visitor counter" width="20%"/></p> -->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=zahirekrem09" alt="visitor counter" width="20%"/></p> 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=zahirekrem09&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zahirekrem09&theme=chartreuse-dark" alt="my commit status" width="49%" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahirekrem09&theme=chartreuse-dark&layout=compact" alt="languages" width="50%"></p>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=
-zahirekrem09&show_icons=true&theme=tokyonight" align='right' width="55%"> -->
-
-<!-- <br/><br/><br/><br/><br/><br/>
-
-
-<!-- <p>My Tools :<p/>
-<p align="bottom">
-
-<img src="./python.png" width="25" height="25">
-<img src="./dj.png" width="25" height="25">
-<img src="./js.png" width="25" height="25" alt = "" >
-<img src="./es6.jpg" width="25" height="25" alt = "" >
-<img src="./jquery.png" width="25" height="25" alt = "" >
-<img src="./react.jpg" width="25" height="25" alt = "" >
-<img src="./reactt.png" width="25" height="25" alt = "" >
-<img src="./reactn.png" width="25" height="25" alt = "" >
-<img src="./node.png" width="25" height="25" alt = "" >
-<img src="./mongo.png" width="25" height="25" alt = "" >
-<img src="./firebase.png" width="25" height="25" alt = "" >
-<img src="./html.png" width="25" height="25" alt = "" >
-<img src="./css3.png" width="25" height="25" alt = "" >
-<img src="./sass.png" width="25" height="25" alt = "" >
-<img src="./font.jpg" width="25" height="25" alt = "" >
-<img src="./bootstrap.png" width="25" height="25" alt = "" >
-<img src="./linux.png" width="25" height="25" alt = "" >
-<img src="./bash.png" width="25" height="25" alt = "" >
-<img src="./git.png" width="25" height="25" alt = "" >
-<img src="./postman.png" width="25" height="25" alt = "" >
-<img src="./drive.png" width="25" height="25" alt = "" >
-<img src="./gmail.jpg" width="25" height="25" alt = "" >
-<img src="./jira.jpg" width="25" height="25" alt = "" >
-<img src="./sgithub.png" width="25" height="25" alt = "" >
-<img src="./slack0.jpg" width="25" height="25" alt = "" >
-<img src="./stackover.png" width="25" height="25" alt = "" >
-<img src="./vscode.png" width="25" height="25" alt = "" >
-<p/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=zahirekrem09&show_icons=true&theme=tokyonight" align='right' width="55%"> 
 
 
 
